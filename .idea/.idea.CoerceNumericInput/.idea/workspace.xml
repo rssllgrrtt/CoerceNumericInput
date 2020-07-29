@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e86ceb5-9136-4eb1-bcc8-ccf12948ab71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput/MainPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput/MainPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput/Annotations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput/MainPageViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput/Controls/CoerceInput.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput/Controls/CoerceInput.xaml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput/Controls/CoerceInput.cs" />
+        <option value="$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput/MainPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput/Controls/CoerceInput.xaml" />
+        <option value="$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput/Controls/CoerceInput.xaml.cs" />
+        <option value="$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput/MainPage.xaml" />
+        <option value="$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput/MainPageViewModel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="CoerceNumericInput.Android/invalid/Android Facet - CoerceNumericInput.Android" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectId" id="1fNBiQd4HUb9FfcR40NEpHIM8lm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.45908028" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.39360872" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Xamarin.Android.Android Default">
+    <configuration name="Android Default" type="XamarinAndroidProject" factoryName="Xamarin.Android" activateToolWindowBeforeRun="false">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput.Android/CoerceNumericInput.Android.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEPLOY_BEHAVIOUR_NAME" value="Default" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CoerceNumericInput/CoerceNumericInput.iOS/CoerceNumericInput.iOS.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="IS_PASS_PARENT_ENVS" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e86ceb5-9136-4eb1-bcc8-ccf12948ab71" name="Default Changelist" comment="" />
+      <created>1596048796753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596048796753</updated>
+      <workItem from="1596048806240" duration="9878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1426" y="432" key="#Android_Default" timestamp="1596049943676">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state x="1426" y="432" key="#Android_Default/0.23.3440.1332@0.23.3440.1332" timestamp="1596049943676" />
+    <state width="432" height="464" key="DebuggerActiveHint" timestamp="1596060053377">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="432" height="464" key="DebuggerActiveHint/0.23.3440.1332@0.23.3440.1332" timestamp="1596060053377" />
+    <state width="2597" height="381" key="GridCell.Tab.0.bottom" timestamp="1596061101806">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="381" key="GridCell.Tab.0.bottom/0.23.3440.1332@0.23.3440.1332" timestamp="1596061101806" />
+    <state width="2597" height="381" key="GridCell.Tab.0.center" timestamp="1596061101805">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="381" key="GridCell.Tab.0.center/0.23.3440.1332@0.23.3440.1332" timestamp="1596061101805" />
+    <state width="2597" height="381" key="GridCell.Tab.0.left" timestamp="1596061101805">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="381" key="GridCell.Tab.0.left/0.23.3440.1332@0.23.3440.1332" timestamp="1596061101805" />
+    <state width="2597" height="381" key="GridCell.Tab.0.right" timestamp="1596061101806">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="381" key="GridCell.Tab.0.right/0.23.3440.1332@0.23.3440.1332" timestamp="1596061101806" />
+    <state width="2597" height="495" key="GridCell.Tab.1.bottom" timestamp="1596060985367">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="495" key="GridCell.Tab.1.bottom/0.23.3440.1332@0.23.3440.1332" timestamp="1596060985367" />
+    <state width="2597" height="495" key="GridCell.Tab.1.center" timestamp="1596060985366">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="495" key="GridCell.Tab.1.center/0.23.3440.1332@0.23.3440.1332" timestamp="1596060985366" />
+    <state width="2597" height="495" key="GridCell.Tab.1.left" timestamp="1596060985366">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="495" key="GridCell.Tab.1.left/0.23.3440.1332@0.23.3440.1332" timestamp="1596060985366" />
+    <state width="2597" height="495" key="GridCell.Tab.1.right" timestamp="1596060985366">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="495" key="GridCell.Tab.1.right/0.23.3440.1332@0.23.3440.1332" timestamp="1596060985366" />
+    <state width="2597" height="495" key="GridCell.Tab.2.bottom" timestamp="1596060985368">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="495" key="GridCell.Tab.2.bottom/0.23.3440.1332@0.23.3440.1332" timestamp="1596060985368" />
+    <state width="2597" height="495" key="GridCell.Tab.2.center" timestamp="1596060985367">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="495" key="GridCell.Tab.2.center/0.23.3440.1332@0.23.3440.1332" timestamp="1596060985367" />
+    <state width="2597" height="495" key="GridCell.Tab.2.left" timestamp="1596060985367">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="495" key="GridCell.Tab.2.left/0.23.3440.1332@0.23.3440.1332" timestamp="1596060985367" />
+    <state width="2597" height="495" key="GridCell.Tab.2.right" timestamp="1596060985368">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="495" key="GridCell.Tab.2.right/0.23.3440.1332@0.23.3440.1332" timestamp="1596060985368" />
+    <state width="2597" height="495" key="GridCell.Tab.3.bottom" timestamp="1596060985370">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="495" key="GridCell.Tab.3.bottom/0.23.3440.1332@0.23.3440.1332" timestamp="1596060985370" />
+    <state width="2597" height="495" key="GridCell.Tab.3.center" timestamp="1596060985369">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="495" key="GridCell.Tab.3.center/0.23.3440.1332@0.23.3440.1332" timestamp="1596060985369" />
+    <state width="2597" height="495" key="GridCell.Tab.3.left" timestamp="1596060985368">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="495" key="GridCell.Tab.3.left/0.23.3440.1332@0.23.3440.1332" timestamp="1596060985368" />
+    <state width="2597" height="495" key="GridCell.Tab.3.right" timestamp="1596060985369">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state width="2597" height="495" key="GridCell.Tab.3.right/0.23.3440.1332@0.23.3440.1332" timestamp="1596060985369" />
+    <state x="880" y="426" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596060332474">
+      <screen x="0" y="23" width="3440" height="1332" />
+    </state>
+    <state x="880" y="426" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.3440.1332@0.23.3440.1332" timestamp="1596060332474" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="XamarinAndroidProject">
+        <watch expression="context.NumericEntry" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

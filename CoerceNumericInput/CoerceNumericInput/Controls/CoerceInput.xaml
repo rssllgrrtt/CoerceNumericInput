@@ -1,0 +1,13 @@
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:CoerceNumericInput.Controls;assembly=CoerceNumericInput"
+             x:Class="CoerceNumericInput.Controls.CoerceInput">
+
+	<ContentView.Content>
+
+		<Entry x:Name="NumericEntry" Keyboard="Numeric"
+		       Text="{Binding Source={RelativeSource AncestorType={x:Type controls:CoerceInput}}, Path=Value}" />
+
+	</ContentView.Content>
+
+</ContentView>

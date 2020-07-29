@@ -1,0 +1,19 @@
+﻿<?xml
+	version="1.0"
+	encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:CoerceNumericInput.Controls;assembly=CoerceNumericInput"
+             xmlns:local="clr-namespace:CoerceNumericInput"
+             x:Class="CoerceNumericInput.MainPage">
+
+	<StackLayout>
+
+		<!-- You could obviously databind MaxValue, I'm not going to here -->
+		<controls:CoerceInput MaxValue="100" MinValue="{Binding MinValue}" Value="{Binding Value, Mode=TwoWay}"
+		                      OnValueChanged="CoerceInput_OnOnValueChanged" />
+
+	</StackLayout>
+
+</ContentPage>
